@@ -1,0 +1,20 @@
+INPUT_FILENAME:
+  Charges: ../Input_DATA/Charges_use.csv
+  Damages: Input_DATA/Damages_use.csv
+  Endorse: Input_DATA/Endorse_use.csv
+  Primary_Person: Input_DATA/Primary_Person_use.csv
+  Units: Input_DATA/Units_use.csv
+  Restrict: Input_DATA/Restrict_use.csv
+
+OUTPUT_PATH:
+  1: Output_DATA/Output/1
+  2: Output_DATA/Output/2
+  3: Output_DATA/Output/3
+  4: Output_DATA/Output/4
+  5: ../Output_DATA/Output/5
+  6: ../Output_DATA/Output/6
+  7: ../Output_DATA/Output/7
+  8: ../Output_DATA/Output/8
+
+FILE_FORMAT:
+  Output: parquet
